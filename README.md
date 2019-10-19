@@ -24,11 +24,11 @@ After you have downloaded the data. you should first,
 
 - Calculate the average temperature using columns `TMAX` and `TMIN` and insert those values into a new column called `TAVG`.
 
-Next, you should use the approaches learned during this week and the same approaches as in Problem 3 to answer / do:
+Next, you should use the approaches learned during the workshop:
 
-- Calculate the temperature anomalies in Sodankyla, i.e. the difference between referenceTemps and the average temperature for each month (see Problem 3). 
+- Calculate the temperature anomalies in Sodankyla, i.e. the difference between referenceTemps and the average temperature for each month. 
 - Calculate the monthly temperature differences between Sodankyla and Helsinki stations
-- How different the summer temperatures (June, July, August) have been between Helsinki (used in Problems 1-3) and Sodankyla station?
+- How different the summer temperatures (June, July, August) have been between Helsinki and Sodankyla station?
     - Calculate the monthly differences into a DataFrame and save it (as `CSV` file) into your own Exercise repository for this week
     - What were the summer mean temperatures for both of these stations?
     - What were the summer standard deviations for both of these stations?
