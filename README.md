@@ -32,3 +32,5 @@ Next, you should use the approaches learned during the workshop:
     - Calculate the monthly differences into a DataFrame and save it (as `CSV` file) into your own Exercise repository for this week
     - What were the summer mean temperatures for both of these stations?
     - What were the summer standard deviations for both of these stations?
+    
+### Credits go to the Geography Dept. of the University of Helsinki for their hard work in creating an effective course on python for the geosciences.
